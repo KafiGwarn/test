@@ -1,0 +1,30 @@
+h1
+{
+    color:purple;
+
+    border-color:bisque; border-width:3px; border-style:solid;
+    
+}
+
+h2
+{
+    color:pink;
+    background:blue;
+}
+
+h4
+{
+    color:green;
+    border:dashed 4px violet;
+}
+
+li
+{
+    color:gray;
+    background-color: aqua;
+}
+
+body
+{
+    background:pink;
+}

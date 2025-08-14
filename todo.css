@@ -1,0 +1,17 @@
+body
+{
+    background: orange;
+    
+}
+#special {
+    text-decoration:underline;
+}
+
+li
+{
+    border: 3px solid red
+}
+
+.completed {
+    text-decoration: line-through;
+}
